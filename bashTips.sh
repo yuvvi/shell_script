@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# OSFY October 2022
 # If you try to use an undefined variable, bash will not treat it as an error.
 # Bash will substitute an empty string and proceed.
 # To fix above scenario, "set -eu" can be used. Error will reported at the end of execution.
